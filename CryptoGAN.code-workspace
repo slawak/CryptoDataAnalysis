@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"docker.host": "ssh://kewpc.fritz.box",
+		"python.pythonPath": "/usr/bin/python3",
+		"files.watcherExclude": {
+			"**/target": true
+		}
+	}
+}
